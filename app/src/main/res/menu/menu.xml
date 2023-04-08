@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/mainFragment"
+        android:title="Feed"
+        android:icon="@drawable/list_svgrepo_com"
+        />
+    <item
+        android:id="@+id/secondFragment"
+        android:title="Save"
+        android:icon="@drawable/bookmark_save_svgrepo_com"
+        />
+    <item
+        android:id="@+id/thirdFragment"
+        android:title="Profile"
+        android:icon="@drawable/user_svgrepo_com"
+        />
+
+</menu>
